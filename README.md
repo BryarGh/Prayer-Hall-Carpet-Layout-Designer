@@ -39,9 +39,6 @@ python app.py
 - **List Column Positions & Sizes** (X, Y, Circumference).
 - **Click "Plot Layout"** to visualize the prayer hall carpet setup.
 
-## Example Screenshot
-(Add your visualization screenshot here)
-
 ## Contributors
 Developed by **Bryar Ghafoor**
 
